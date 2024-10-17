@@ -1,5 +1,4 @@
-# BA780
-#**Team Project
+# BA780-Team Project
 #**Reducing Hospital Readmissions in Diabetic Patients using Predictive Analytics**
 
 **Created By**:
